@@ -20,3 +20,6 @@ je wint bij een bepaalde score/ of als je de vijand zovaak hebt geraakt.
 Links of boven zit de speler ligt aan level.
 midden zitten de targets
 rechts of onder zit de vijand
+
+# concept 
+![image](../unity_game2/images/Schermafbeelding%202025-11-24%20100211.png)
